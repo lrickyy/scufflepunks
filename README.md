@@ -1,4 +1,4 @@
-<div align="center"> <img src="./Scufflepunks/art/punkscreen.png" alt="Project Banner" width="100%"> </div>
+<div align="center"> <img src="./Scufflepunks/art/punkscreen.png" alt="Project Banner" width="50%"> </div>
 
 <h1 align="center">ScufflePunks</h1>
 
